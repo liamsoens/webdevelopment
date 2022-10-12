@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44adcfc7-dc15-4da9-ad3b-9d05b39e33d4" name="Changes" comment="" />
+    <list default="true" id="44adcfc7-dc15-4da9-ad3b-9d05b39e33d4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2FuB3dXsjLnq6LoUB64Rw5OBXru" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +42,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\Labo 4\Foto's" />
+      <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\Labo 3" />
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment" />
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\homepage" />
     </key>
@@ -57,6 +64,8 @@
       <workItem from="1665348964954" duration="427000" />
       <workItem from="1665349612561" duration="2316000" />
       <workItem from="1665352407469" duration="431000" />
+      <workItem from="1665578145732" duration="3129000" />
+      <workItem from="1665581679843" duration="1592000" />
     </task>
     <servers />
   </component>

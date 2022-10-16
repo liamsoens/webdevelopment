@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44adcfc7-dc15-4da9-ad3b-9d05b39e33d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo4/Opdracht5/hobby.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/Opdracht5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/Opdracht5/like.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/opdracht2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/quality40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/quality70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo4/quality90.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Bestanden/Opdracht 1 - 2 -3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/Bestanden/Opdracht1en2en3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/GD_12-Group-Redrum_01189ret_r3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/GD_12-Group-Redrum_01189ret_r3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/download.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/download.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/genres-punk-listing-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/genres-punk-listing-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/my personal homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/my personal homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/opleidingsaanbod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/Foto/download100%.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/Foto/download40%.png" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Quality100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/Foto/download70%.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/Foto/download90%.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/opdracht-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/opdracht1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/opdracht-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,21 +53,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/soens/OneDrive/Bureaublad/GitHub/homepage&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/soens/OneDrive/Bureaublad/GitHub/webdevelopment/Labo4",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\Labo4" />
+      <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\Labo4\Foto" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment" />
+      <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\Labo4" />
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\Labo 4\Foto's" />
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\Labo 3" />
-      <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment" />
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\homepage" />
     </key>
   </component>
@@ -66,6 +94,7 @@
       <workItem from="1665352407469" duration="431000" />
       <workItem from="1665578145732" duration="3129000" />
       <workItem from="1665581679843" duration="1592000" />
+      <workItem from="1665908479919" duration="3873000" />
     </task>
     <servers />
   </component>

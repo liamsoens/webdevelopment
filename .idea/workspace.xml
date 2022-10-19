@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44adcfc7-dc15-4da9-ad3b-9d05b39e33d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo4/uitbreiding40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo4/uitbreiding70.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo5/opdracht_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo5/opdracht_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo5/opdracht_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo5/opdracht_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo5/opdracht_6/styles/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo5/opdracht_7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo4/Opdracht5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Opdracht5/personal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/my personal homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/my personal homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/opleidingsaanbod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/Opdracht5/hobby.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Opdracht5/hobby.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/Opdracht5/like.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Opdracht5/like.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/Opdracht5/personal.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/Opdracht5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/Quality100.png" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/images/Quality100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/opdracht1.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/opdracht1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo4/opdracht2.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/opdracht2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/quality40.png" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/images/quality40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/quality70.png" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/images/quality70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/quality90.png" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/images/quality90.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/uitbreiding40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/images/uitbreiding40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo4/uitbreiding70.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/labo4/images/uitbreiding70.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +36,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -42,6 +62,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/soens/OneDrive/Bureaublad/GitHub/webdevelopment/labo4",
+    "list.type.of.created.stylesheet": "CSS",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -52,11 +73,11 @@
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\Labo4\Foto" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\labo4\images" />
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment" />
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\Labo4" />
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\Labo 4\Foto's" />
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\Labo 3" />
-      <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\homepage" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,6 +99,8 @@
       <workItem from="1665578145732" duration="3129000" />
       <workItem from="1665581679843" duration="1592000" />
       <workItem from="1665908479919" duration="4846000" />
+      <workItem from="1666115024951" duration="361000" />
+      <workItem from="1666185263184" duration="2832000" />
     </task>
     <servers />
   </component>

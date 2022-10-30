@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44adcfc7-dc15-4da9-ad3b-9d05b39e33d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo6/Opdracht_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo6/Opdracht_1/styles/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo6/Opdracht_3/resume.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo6/Opdracht_3/styles/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo6/Opdracht_5/images/link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo6/Opdracht_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo6/Opdracht_5/styles/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo6/Opdracht_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo6/Opdracht_6/styles/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/Opdracht_6/images/square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo6/Opdracht_6/images/tick.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo6/Opdracht_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo6/Opdracht_6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo6/Opdracht_6/styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo6/Opdracht_6/styles/stijl.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/soens/OneDrive/Bureaublad/GitHub/webdevelopment/labo6/Opdracht_5/images",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/soens/OneDrive/Bureaublad/GitHub/webdevelopment/labo6/Opdracht_5/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\labo6\Opdracht_5\images" />
@@ -61,11 +55,11 @@
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\Labo4\Foto" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\labo6\Opdracht_6\images" />
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\labo6\Opdracht_5\images" />
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\labo6\Opdracht_3\styles" />
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\labo6\Opdracht_3" />
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\labo5\images" />
-      <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\labo4\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -92,6 +86,7 @@
       <workItem from="1666707750840" duration="3539000" />
       <workItem from="1666776685669" duration="2276000" />
       <workItem from="1666786523205" duration="6528000" />
+      <workItem from="1667168510508" duration="943000" />
     </task>
     <servers />
   </component>

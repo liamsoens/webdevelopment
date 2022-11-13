@@ -1,0 +1,35 @@
+.header {
+    background-image: url("../images/header.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100px;
+} body {
+      max-width: 1200px;
+      margin: auto;
+  }    h1.article {
+              font-size: 30px;
+              text-decoration: underline;
+              color: #413c3c;
+          }
+h1.hoofd {
+    color: #EDF2F4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+nav {
+    background-color: #413C3CFF;
+    padding: 5px;
+    font-weight: bold
+}
+.link {
+    color: #80e382;
+} article {
+
+      background-color: #eaeaea;
+    padding: 5px;
+    margin: 5px
+  }

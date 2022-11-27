@@ -1,0 +1,87 @@
+body {
+    font-family: Verdana, Helvetica, Arial sans-serif;
+    font-size: 1.2em;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article {
+    border: 2px solid cadetblue;
+    width: 30%;
+    float: right;
+    box-sizing: border-box;
+    margin: 5px;
+    text-align: center;
+
+    background-repeat: repeat-x;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 26px;
+}
+
+h1 {
+    color: #007E7E;
+    font-size: 150%;
+}
+
+h2 {
+    color: #007E7E;
+    font-size: 130%;
+}
+
+.heading1 {
+    color:black;
+}
+
+.heading2 {
+    color: hotpink;
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 17em;
+    margin-bottom: 20px;
+    font-size: 0.6em;
+
+}
+.a:hover {
+    background-color: saddlebrown;
+}
+
+.blauw {
+    font-style: italic;
+    margin: 30px;
+    padding: 20px;
+    padding-left: 80px;
+    color: #444444;
+    background-color: #a7cece;
+    border: 1px dashed white;
+    background-image: url("../images/background.gif");
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+
+.Buddha {
+    font-style: italic;
+}
+
+.Claude {
+    font-weight: bold;
+}
+
+section {
+    width: 70%;
+}
+
+
+
+

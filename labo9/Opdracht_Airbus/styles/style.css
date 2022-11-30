@@ -1,0 +1,29 @@
+.top {
+    display: block;
+    background-image: url("../fotos/bgsky3.jpg");
+    height: 200px;
+    position: relative;
+
+}
+.vliegtuig {
+    float: right;
+    position: absolute;
+    right: 90px;
+    bottom: 60px;
+}
+.hoofd {
+    font-size: 300%;
+    color: darkblue;
+    font-style: italic;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+
+}
+.hoofd1 {
+    font-size: 240%;
+    font-weight: bold;
+    color: darkblue;
+    display: flex;
+    justify-content: center;
+  }

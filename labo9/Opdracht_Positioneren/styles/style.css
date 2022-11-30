@@ -1,0 +1,24 @@
+body {
+    font-size: 1.25em;
+}
+article {
+    height: 275px;
+    border: 1px black solid;
+    margin: 10px;
+    padding: 10px
+
+}
+article:nth-child(even) img{
+    float: right;
+    margin 10px;
+
+
+}
+
+article:nth-child(odd) img{
+    float: left;
+    margin: 10px;
+}
+
+
+

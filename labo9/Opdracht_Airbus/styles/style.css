@@ -1,19 +1,13 @@
 body{
     width: 960px;
-    margin: auto;
+    margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
     background-image: url("../fotos/pagebackground.png");
     background-repeat: repeat-y;
     background-position: center;
     background-color: #e3e2e2;
-
-
-
-
+    margin-top: -10px;
 }
-main {
-background: white;
-  }
 
 .top {
     background-image: url("../fotos/bgsky3.jpg");

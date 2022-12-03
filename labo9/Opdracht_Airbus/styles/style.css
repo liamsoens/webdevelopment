@@ -1,22 +1,24 @@
 body{
     width: 960px;
-    margin: 0 auto;
+    margin: auto;
     font-family: Arial, Helvetica, sans-serif;
     background-image: url("../fotos/pagebackground.png");
-    background-size: cover;
+    background-repeat: repeat-y;
+    background-position: center;
+    background-color: #e3e2e2;
+
+
+
 
 }
 main {
-    background: white;
+background: white;
   }
 
 .top {
     background-image: url("../fotos/bgsky3.jpg");
     height: 200px;
     position: relative;
-    background-repeat: no-repeat;
-    background-size: cover;
-
 
 }
 .vliegtuig {
@@ -32,8 +34,6 @@ main {
     font-weight: bold;
     display: flex;
     justify-content: center;
-
-
 }
 .hoofd1 {
     font-size: 240%;

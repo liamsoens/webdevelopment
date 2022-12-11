@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44adcfc7-dc15-4da9-ad3b-9d05b39e33d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo10/Bootstrap/Persoonlijke_Homepagina/images/Punkrock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo10/Bootstrap/Persoonlijke_Homepagina/images/StarWars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo10/Bootstrap/Persoonlijke_Homepagina/images/paris.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo10/Bootstrap/Persoonlijke_Homepagina/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo10/Bootstrap/Persoonlijke_Homepagina/styles/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo10/Bootstrap/Persoonlijke_Homepagina/styles/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo10/Bootstrap/compositie/styles/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo10/Bootstrap/compositie/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo10/Bootstrap/oefening2/style/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo10/Bootstrap/oefening2/style/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo10/Bootstrap/oefening2/style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo10/Bootstrap/compositie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo10/Bootstrap/compositie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo10/Bootstrap/oefening1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo10/Bootstrap/oefening1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo10/Bootstrap/oefening1/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo10/Bootstrap/oefening1/style/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo10/Bootstrap/oefening2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo10/Bootstrap/oefening2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo10/Bootstrap/personal_homepage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo10/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo3/my personal homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo3/my personal homepage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo7/Persoonlijke_Homepagina/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo7/Persoonlijke_Homepagina/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo10/Bootstrap/oefening2/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo10/Bootstrap/oefening2/style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/soens/OneDrive/Bureaublad/GitHub/webdevelopment/labo10/Bootstrap/Persoonlijke_Homepagina/styles",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/soens/OneDrive/Bureaublad/GitHub/webdevelopment/labo10/Bootstrap/Persoonlijke_Homepagina/styles&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\soens\OneDrive\Bureaublad\GitHub\webdevelopment\labo10\Bootstrap\Persoonlijke_Homepagina\styles" />
@@ -138,6 +120,7 @@
       <workItem from="1670419914056" duration="1825000" />
       <workItem from="1670423196543" duration="2670000" />
       <workItem from="1670789969224" duration="3404000" />
+      <workItem from="1670796293313" duration="161000" />
     </task>
     <servers />
   </component>

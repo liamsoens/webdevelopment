@@ -1,0 +1,29 @@
+.kleurkiezer {
+    width:125px;
+    height:125px;
+    border:1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+}
+.page {
+    width:fit-content;
+    display: flex;
+    border: #ec0d0d 3px solid;
+
+    border-radius: 5px;
+    padding: 10px;
+}
+.slides{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    padding-right: 20px;
+}
+input{
+    padding: 10px 0 10px 0;
+}
+.values{
+    margin-top: 10px;
+    width: 100px;
+
+}
